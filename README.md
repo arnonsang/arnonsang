@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arnonsang, @icedkung
+Other account know as @icedkung and @icedkungbot
 
 <!---
 arnonsang/arnonsang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
