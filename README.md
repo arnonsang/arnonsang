@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.iamickdev.com](https://www.iamickdev.com)
 
-- 📫 Reach me at **<work@iamickdev.com>** or **<contact@jlrlab03.dev>**
+- 📫 Reach me at **<work@iamickdev.com>** or **<contact@jlrlab03.dev>** (For work only)
 
 - ⚡ **Just happy with coding!**
 
