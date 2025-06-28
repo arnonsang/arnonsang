@@ -2,8 +2,8 @@
 <h3 align="center">Just a passionate developer crafting creative solutions to make life easier and more elegant!</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnonsang&locale=en&hide_title=false&hide=html,ejs,css,pug&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnonsang&theme=dark&hide_border=false" height="150" alt="streak stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnonsang&locale=en&hide_title=false&hide=html,ejs,css,pug&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnonsang&theme=dark&hide_border=true" height="150" alt="streak stats"  />
 </div>
 
 ---
